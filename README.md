@@ -40,6 +40,9 @@ https://github.com/lovnishverma/Python-Getting-Started/blob/main/ONNX_Model_with
 
 ---
 
+
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/6474405f90330355db146c76/AE12FhCep_4R6IdoSyOlP.png)
+
 ### 💡 Features
 
 * 🧠 Trained with `scikit-learn` Logistic Regression
