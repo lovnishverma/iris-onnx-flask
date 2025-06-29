@@ -1,5 +1,5 @@
 ---
-title: Flasktest1
+title: ONNX
 emoji: 📉
 colorFrom: blue
 colorTo: pink
@@ -52,7 +52,7 @@ This project is a simple Flask web application that predicts the species of an I
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/iris-onnx-flask.git
+   git clone https://github.com/lovnishverma/iris-onnx-flask.git
    cd iris-onnx-flask
    ```
 
