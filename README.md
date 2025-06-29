@@ -15,6 +15,8 @@ short_description: deploying ML model in flask
 This project is a simple Flask web application that predicts the species of an Iris flower based on its measurements using a pre-trained **Logistic Regression model**. The model is exported in **ONNX (Open Neural Network Exchange)** format, allowing for efficient, framework-independent inference.
 
 ---
+### 🚀 Model Training Colab Notebook
+https://github.com/lovnishverma/Python-Getting-Started/blob/main/ONNX_Model_with_Your_Dataset.ipynb
 
 ### 🚀 Live Demo
 
